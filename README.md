@@ -4,8 +4,8 @@
 I'm passionate about coding and enjoy creating innovative and efficient solutions to complex problems. I have experience working with a variety of technologies and enjoy learning new skills to improve my craft.
 
 ## Projects
-- E-Commerce No Hunger: [Repository](https://github.com/example/project-a), [Deployment](https://example.com/project-a)
-- Twitter Clone: [Repository](https://github.com/example/project-b), [Deployment](https://example.com/project-b)
+- E-Commerce No Hunger: [Repository](https://github.com/FedericoAntunes/e-commerce-front), [Deployment](https://no-hunger-food.vercel.app/)
+- Twitter Clone: [Repository](https://github.com/magguer/twitter-t5-frontend), [Deployment](https://twitter-t5-frontend-im7luf1v9-magguer.vercel.app/login)
 
 ## Skills
 I have experience working with:
