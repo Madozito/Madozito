@@ -9,13 +9,14 @@ I'm passionate about coding and enjoy creating innovative and efficient solution
 
 ## Skills
 I have experience working with:
-- JavaScript
-- TypeScript
-- React.js
-- HTML5
-- CSS3
-- Node.js
-- MySQL
+1. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"/> JavaScript
+2. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="50" height="50"/> TypeScript
+3. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js logo" width="50" height="50"/> React.js
+4. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50"/> HTML5
+5. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 logo" width="50" height="50"/> CSS3
+6. <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js logo" width="50" height="50"/> Node.js
+7. <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL logo" width="50" height="50"/> MySQL
+
 
 ## Contact
 [<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:juanmamadoz@gmail.com)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/juanmartinmadoz/)
