@@ -18,11 +18,8 @@ I have experience working with:
 - MySQL
 
 ## Contact
-You can reach me via:
-- [Gmail](mailto:juanmamadoz@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/juanmartinmadoz/)
+[<img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>](mailto:juanmamadoz@gmail.com)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/juanmartinmadoz/)
 
-[![GitHub followers](https://img.shields.io/github/followers/example.svg?style=social&label=Follow)](https://github.com/example)
 
 
 <!---
