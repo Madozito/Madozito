@@ -8,14 +8,7 @@ I'm passionate about coding and enjoy creating innovative and efficient solution
 - Twitter Clone: [Repository](https://github.com/magguer/twitter-t5-frontend), [Deployment](https://twitter-t5-frontend-im7luf1v9-magguer.vercel.app/login)
 
 ## Skills
-I have experience working with:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript logo" width="50" height="50"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js logo" width="50" height="50"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 logo" width="50" height="50"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 logo" width="50" height="50"/> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js logo" width="60" height="60"/> 
- <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL logo" width="90" height="70"/> 
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,react,nodejs,mysql,mongodb,git)](h)
 
 
 ## Contact
